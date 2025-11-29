@@ -25,40 +25,48 @@ I believe every store has its own unique story — and I love turning that story
 
 ---
 
-## 🛠️ Tech I Work With (Animated Icons)
+## 🛠️ Tech I Work With (Static Icons)
 
 ### 🛒 eCommerce Platforms
-<img src="https://i.imgur.com/OGa7YcH.gif" height="50"/>  
-<img src="https://i.imgur.com/iX3xY4H.gif" height="50"/>  
-<img src="https://i.imgur.com/fD1yyqR.gif" height="50"/>  
-<img src="https://i.imgur.com/P24CvvE.gif" height="50"/>  
-<img src="https://i.imgur.com/GyDZjPl.gif" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopify/shopify-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wix/wix-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bigcommerce/bigcommerce-original.svg" height="50"/>
+</p>
 
 ---
 
 ### 🎨 Frontend
-<img src="https://i.imgur.com/61f2F7m.gif" height="50"/>  
-<img src="https://i.imgur.com/C1s6k2Y.gif" height="50"/>  
-<img src="https://i.imgur.com/MXmfJpX.gif" height="50"/>  
-<img src="https://i.imgur.com/3IOKhAm.gif" height="50"/>  
-<img src="https://i.imgur.com/RpUjWYE.gif" height="50"/>  
-<img src="https://i.imgur.com/KcLfvdm.gif" height="50"/>  
-<img src="https://i.imgur.com/3YwWQ7L.gif" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50"/>
+</p>
 
 ---
 
 ### ⚙️ DevOps & Tools
-<img src="https://i.imgur.com/ZPz3zRq.gif" height="50"/>  
-<img src="https://i.imgur.com/1dZXO7u.gif" height="50"/>  
-<img src="https://i.imgur.com/N6XfKGA.gif" height="50"/>  
-<img src="https://i.imgur.com/9LBz8Ht.gif" height="50"/>  
-<img src="https://i.imgur.com/caKNxkp.gif" height="50"/>  
-<img src="https://i.imgur.com/6xJd34o.gif" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50"/>
+</p>
 
 ---
 
 ### 📈 Other Expertise
-<img src="https://i.imgur.com/Hy3YoFv.gif" height="50"/>  
-<img src="https://i.imgur.com/8DGUeFH.gif" height="50"/>  
-<img src="https://i.imgur.com/lfzoG0y.gif" height="50"/>  
-<img src="https://i.imgur.com/2i3R6Ax.gif" height="50"/>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
+</p>
